@@ -1,0 +1,17 @@
+Script started on 2016年03月21日 (週一) 12時18分26秒
+]0;F74041056@2016cpp: ~/lab2[01;32mF74041056@2016cpp[00m:[01;34m~/lab2[00m$ git config -l
+user.name=TeresaDai
+user.email=decade910831@gmail.com
+color.ui=true
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.lab2.cpp.url=https://github.com/F74041056/Decade.git
+remote.lab2.cpp.fetch=+refs/heads/*:refs/remotes/lab2.cpp/*
+]0;F74041056@2016cpp: ~/lab2[01;32mF74041056@2016cpp[00m:[01;34m~/lab2[00m$ git clone https://github.com/F74041056/lab2.git
+Cloning into 'lab2'...
+warning: You appear to have cloned an empty repository.
+]0;F74041056@2016cpp: ~/lab2[01;32mF74041056@2016cpp[00m:[01;34m~/lab2[00m$ exit
+
+Script done on 2016年03月21日 (週一) 12時19分31秒
